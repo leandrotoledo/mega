@@ -31,7 +31,7 @@ $ ./mega.py 1450
 
 3) É possível colocar no cron
 
-0 5 * * 1 /home/leandrotoledo/mega.py 1450 | mail -s "Resultado Mega" leandrotoledodesouza@gmail.com
+0 5 * * 1 /home/leandrotoledo/mega.py 1450 | mail -s "Resultado Mega" leandrotoledodesouza@email.com
 
 
 4) Se você ganhar faça um donate pra mim! ;-)
